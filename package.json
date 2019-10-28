@@ -1,0 +1,22 @@
+{
+  "name": "19-js-fundamentals",
+  "version": "1.0.0",
+  "description": "A simole Javascript Fundamentals repo",
+  "main": "10_function_returning_values.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hecto932/19-js-fundamentals.git"
+  },
+  "author": "Hector Flores <hecto932@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hecto932/19-js-fundamentals/issues"
+  },
+  "homepage": "https://github.com/hecto932/19-js-fundamentals#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
