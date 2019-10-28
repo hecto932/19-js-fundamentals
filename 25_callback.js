@@ -1,6 +1,6 @@
 const request = require("request");
 
-request("https://sonplaceholder.typicode.com/posts/1", function(
+request("https://jsonplaceholder.typicode.com/posts/1", function(
   err,
   res,
   body

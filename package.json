@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hecto932/19-js-fundamentals#readme",
   "dependencies": {
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
   }
 }
