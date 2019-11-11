@@ -3,7 +3,7 @@
 var person = {
   name: "Hector",
   lastname: "Flores",
-  age: 29
+  age: 29,
 };
 
 function itHasMoreThanEighteen(person) {
@@ -18,11 +18,11 @@ function itHasMoreThanEighteen(person) {
 
 itHasMoreThanEighteen(person);
 
-// USING LETS
+// USING LET
 var person = {
   name: "Hector",
   lastname: "Flores",
-  age: 29
+  age: 29,
 };
 
 function itHasMoreThanEighteenLet(person) {
